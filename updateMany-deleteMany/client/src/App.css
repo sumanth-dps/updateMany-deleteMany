@@ -1,0 +1,48 @@
+.appDiv {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+}
+table {
+  border-collapse: collapse;
+}
+form {
+  background-color: deepskyblue;
+  display: inline-block;
+  padding: 20px;
+}
+form div {
+  margin: 15px;
+}
+form label {
+  display: inline-block;
+  width: 100px;
+}
+form select {
+  width: 200px;
+}
+
+.link {
+  font-size: 2rem;
+}
+.div {
+  display: inline-block;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: rgb(144, 184, 156);
+}
+a {
+  font-size: 2rem;
+}
